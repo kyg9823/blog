@@ -3,7 +3,7 @@ baseURL = "https://kyg9823.github.io"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "My New Hugo Site"
+title = "Kim Kyle's Blog"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -11,6 +11,8 @@ theme = "LoveIt"
 [params]
   # LoveIt theme version
   version = "0.2.X"
+  description = "This is Kim Kyle's Blog"
+  defaultTheme = "dark"
 
 [menu]
   [[menu.main]]
